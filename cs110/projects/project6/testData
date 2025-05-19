@@ -1,0 +1,37 @@
+addStudentOrdered Garcia Marie
+
+addGradeOrdered Garcia Marie L2 100
+
+addGradeOrdered Garcia Marie L1 65
+
+addGradeOrdered Garcia Marie L12 85
+
+addGradeOrdered Garcia Marie L10 55
+
+printStudent Garcia Marie
+
+addStudentOrdered Smith Mary
+
+addStudentOrdered Smith David
+
+count
+
+addGradeOrdered Smith Mary E1 90
+
+addGradeOrdered Smith Mary P2 70
+
+addGradeOrdered Smith Mary L4 85
+
+addGradeOrdered Smith David L11 100
+
+addGradeOrdered Smith David B3 80.5
+
+addGradeOrdered Smith David E2 75
+
+removeStudent Smith Mary
+
+addGrade Smith David B3 71.9
+
+print
+
+quit

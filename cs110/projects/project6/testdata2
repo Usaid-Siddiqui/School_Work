@@ -1,0 +1,7 @@
+addStudentOrdered Smith John
+addStudentOrdered Siddiqui Salma
+addStudentOrdered Smith David
+addStudentOrdered Smith Aamira
+addStudentOrdered Smith Ezekiel
+print
+quit

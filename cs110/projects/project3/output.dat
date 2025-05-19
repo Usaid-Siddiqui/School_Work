@@ -1,0 +1,15 @@
+Enter a formatting code:
+Enter a paragraph, ending with <CTRL-D>:
+1234567890
+ Watch the
+     quick
+ brown fox
+jumps over
+  the lazy
+   old dog
+       yea
+1234567890
+
+Dots printed: 571
+Spaces printed: 24
+Newlines printed: 7
